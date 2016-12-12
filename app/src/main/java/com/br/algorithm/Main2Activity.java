@@ -9,6 +9,8 @@ import android.support.v7.widget.RecyclerView;
 import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.View;
+import android.widget.Toast;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -50,5 +52,4 @@ public class Main2Activity extends AppCompatActivity {
 
         adapter.notifyDataSetChanged();
     }
-
 }

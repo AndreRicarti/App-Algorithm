@@ -7,4 +7,13 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+
+    <style name="textInputLayout_hint" parent="TextAppearance.Design.Hint">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="styleTV">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">21sp</item>
+    </style>
 </resources>

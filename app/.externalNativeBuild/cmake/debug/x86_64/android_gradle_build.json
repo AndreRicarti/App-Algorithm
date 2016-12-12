@@ -1,0 +1,50 @@
+
+{
+	"buildFiles" : [ "C:/Users/a.ricarti/Desktop/App-Algorithm/app/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\a.ricarti\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\Users\\a.ricarti\\Desktop\\App-Algorithm\\app\\.externalNativeBuild\\cmake\\debug\\x86_64 --target clean"
+	],
+	"libraries" : 
+	{
+		"native-lib-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "native-lib",
+			"buildCommand" : "C:\\Users\\a.ricarti\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\Users\\a.ricarti\\Desktop\\App-Algorithm\\app\\.externalNativeBuild\\cmake\\debug\\x86_64 --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target x86_64-none-linux-android -gcc-toolchain C:/Users/a.ricarti/AppData/Local/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/a.ricarti/AppData/Local/Android/Sdk/ndk-bundle/platforms/android-21/arch-x86_64 -Dnative_lib_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "C:/Users/a.ricarti/Desktop/App-Algorithm/app/src/main/cpp/InsertionSort.c",
+					"workingDirectory" : "C:/Users/a.ricarti/Desktop/App-Algorithm/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  -target x86_64-none-linux-android -gcc-toolchain C:/Users/a.ricarti/AppData/Local/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/a.ricarti/AppData/Local/Android/Sdk/ndk-bundle/platforms/android-21/arch-x86_64 -Dnative_lib_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "C:/Users/a.ricarti/Desktop/App-Algorithm/app/src/main/cpp/BubbleSort.c",
+					"workingDirectory" : "C:/Users/a.ricarti/Desktop/App-Algorithm/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  -target x86_64-none-linux-android -gcc-toolchain C:/Users/a.ricarti/AppData/Local/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/a.ricarti/AppData/Local/Android/Sdk/ndk-bundle/platforms/android-21/arch-x86_64 -Dnative_lib_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "C:/Users/a.ricarti/Desktop/App-Algorithm/app/src/main/cpp/SelectionSort.c",
+					"workingDirectory" : "C:/Users/a.ricarti/Desktop/App-Algorithm/app/.externalNativeBuild/cmake/debug/x86_64"
+				}
+			],
+			"output" : "C:/Users/a.ricarti/Desktop/App-Algorithm/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so",
+			"toolchain" : "3433365325"
+		}
+	},
+	"toolchains" : 
+	{
+		"3433365325" : 
+		{
+			"cCompilerExecutable" : "C:/Users/a.ricarti/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/a.ricarti/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}
