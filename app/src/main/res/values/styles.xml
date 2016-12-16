@@ -13,7 +13,6 @@
     </style>
 
     <style name="styleTV">
-        <item name="android:fontFamily">sans-serif-medium</item>
         <item name="android:textSize">21sp</item>
     </style>
 </resources>
